@@ -26,7 +26,7 @@ const produtos = [
     nome: 'Torresmo (kg)',
     preco: 75,
     unidade: 'kg',
-    img: 'images/torresmo.jpg'
+    img: 'ChatGPT Image 19 de jul. de 2025, 17_12_10.png'
   },
 ];
 
