@@ -12,7 +12,7 @@ const produtos = [
     nome: 'Linguiça campeira (pacote)',
     preco: 15,
     unidade: 'pacote',
-    img: 'images/linguica-campeira.jpg'
+    img: 'ChatGPT Image 19 de jul. de 2025, 17_11_59.png'
   },
   {
     id: 3,
