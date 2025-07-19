@@ -5,7 +5,7 @@ const produtos = [
     nome: 'Linguiça (kg)',
     preco: 30,
     unidade: 'kg',
-    img: 'images/linguica-fresca.jpg'
+    img: 'icons/ChatGPT Image 19 de jul. de 2025, 17_12_34.png'
   },
   {
     id: 2,
