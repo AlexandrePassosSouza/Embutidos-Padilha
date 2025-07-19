@@ -19,7 +19,7 @@ const produtos = [
     nome: 'Linguiça calabresa (mala)',
     preco: 15,
     unidade: 'mala',
-    img: 'images/linguica-calabresa.jpg'
+    img: 'ChatGPT Image 19 de jul. de 2025, 17_12_10.png'
   },
   {
     id: 4,
