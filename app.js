@@ -5,31 +5,30 @@ const produtos = [
     nome: 'Linguiça (kg)',
     preco: 30,
     unidade: 'kg',
-    img: 'icons/ChatGPT Image 19 de jul. de 2025, 17_12_34.png'
+    img: 'images/linguica-fresca.png'
   },
   {
     id: 2,
     nome: 'Linguiça campeira (pacote)',
     preco: 15,
     unidade: 'pacote',
-    img: 'ChatGPT Image 19 de jul. de 2025, 17_11_59.png'
+    img: 'images/linguica-campeira.png'
   },
   {
     id: 3,
     nome: 'Linguiça calabresa (mala)',
     preco: 15,
     unidade: 'mala',
-    img: 'ChatGPT Image 19 de jul. de 2025, 17_12_10.png'
+    img: 'images/linguica-calabresa.png'
   },
   {
     id: 4,
     nome: 'Torresmo (kg)',
     preco: 75,
     unidade: 'kg',
-    img: 'ChatGPT Image 19 de jul. de 2025, 17_12_10.png'
+    img: 'images/torresmo.png'
   },
 ];
-
 // 2) Estado do carrinho (armazenado no localStorage)
 let carrinho = JSON.parse(localStorage.getItem('carrinho')) || [];
 
